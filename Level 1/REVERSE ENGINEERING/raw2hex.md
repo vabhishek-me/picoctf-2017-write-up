@@ -43,7 +43,7 @@ It was also a simple challenge like the first one. But in this challenge we just
     Well i think now we got the flag
     
     ```
-    ~./raw2hex | cut -d ':' -f 2 | xxd -plain
+    ~./raw2hex | cut -d ':' -f 2 | xxd -p
     
     3dacd3435d59a4862b9ff83d7c44cd320a
     ```
