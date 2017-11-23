@@ -50,6 +50,6 @@ It was just a simple challenge. We just need inpute the decoded hex value.
    And we got the flag.
 
    Thanks :) 
-   @spiritedwolf
+   [@spiritedwolf](github.com/spiritedwolf)
 
 ---
