@@ -6,3 +6,4 @@
 Collaborators:
 
  - Aditya Gaur (@iamaditya-gaur)
+ - Spirited Wolf (@spiritedwolf)
