@@ -10,7 +10,6 @@ Google is always very helpful in these circumstances. In this case, you should b
 
 ---
 
----
 # Solution
 
 It was also a simple challenge like the first one. But in this challenge we just need to encode the value to hex as the challenger is saying. 
@@ -35,9 +34,9 @@ It was also a simple challenge like the first one. But in this challenge we just
    first of all you must know how the cat command work in bash just simple man command can tell you everything. 
   
    we will use ```-d "the delimiter"``` and  ```-f "the fields"```
-        ```bash
-        cat -d ':' -f 2
-        ```
+   ```bash
+   cat -d ':' -f 2
+   ```
     and for ```xxd``` we can use ```-p ``` "for getting output in plain hexdump style". Then just pipe all these out
     
     Well i think now we got the flag
@@ -51,6 +50,7 @@ It was also a simple challenge like the first one. But in this challenge we just
    And we got the flag.
 
    Thanks :) 
-   @spiritedwolf
+   
+   [@spiritedwolf](github.com/spiritedwolf)
 
 ---
