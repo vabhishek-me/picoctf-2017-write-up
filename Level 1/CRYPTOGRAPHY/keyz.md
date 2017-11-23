@@ -22,3 +22,12 @@ Steps:
     Congratulations on setting up SSH key authentication!
     Here is your flag: who_needs_pwords_anyways
 ```
+
+___
+___
+
+Thanks
+
+Twitter : [@iammrdollar](https://twitter.com/iammrdollar)
+
+Github : [@iammrdollar](https://github.com/iammrdollar)
