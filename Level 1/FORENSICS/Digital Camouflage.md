@@ -38,7 +38,7 @@ Just ```right click on packet``` > ```Follow TCP Stream```
     ```
    Thanks :) 
    
-   @spiritedwolf
+   [@spiritedwolf](github.com/spiritedwolf)
 
 ---
 
