@@ -3,3 +3,5 @@
  - keyz
  - substitute
  - Hash101
+ - computeAES
+
