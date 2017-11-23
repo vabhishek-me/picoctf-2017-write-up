@@ -14,7 +14,7 @@ If you think you found the flag, but it doesn't work, consider that the data may
 ---
 # Solution
 
-It was also easy challenge. We just find the flag from the captured packets. I am going to do solve it using ```wireshark``` 
+It was also easy challenge. We just find the flag from the captured packets. I am going to solve it using ```wireshark``` 
 
 1. So we got one ```.pcap``` file.
     ```bash
@@ -37,6 +37,7 @@ Just ```right click on packet``` > ```Follow TCP Stream```
     prvqBZNqYw
     ```
    Thanks :) 
+   
    @spiritedwolf
 
 ---
