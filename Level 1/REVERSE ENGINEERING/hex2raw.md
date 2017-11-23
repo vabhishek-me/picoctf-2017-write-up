@@ -1,8 +1,5 @@
 # Hex2Raw 
 ---
-# Question
----
-
 ### Question
 
 This program requires some unprintable characters as input... But how do you print unprintable characters? CLI yourself to /problems/b20c0c219ef2c830da927f80fb7e9cd3 and turn that Hex2Raw!
@@ -12,7 +9,7 @@ This program requires some unprintable characters as input... But how do you pri
 Google for easy techniques of getting raw output to command line. In this case, you should be looking for an easy solution.
 
 ---
----
+
 ---
 # Solution
 
