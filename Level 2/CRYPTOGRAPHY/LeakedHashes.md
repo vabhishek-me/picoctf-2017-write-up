@@ -1,4 +1,4 @@
-# Shells
+# LeakedHashes
 ---
 ### Question
 Someone got hacked! Check out some service's password hashes that were leaked at hashdump.txt! Do you think they chose strong passwords? We should check... The service is running at shell2017.picoctf.com:4145!
@@ -264,8 +264,10 @@ from http://user.xmission.com/~emailbox/ascii_cats.htm
 
  ```
  
- So, i think we got the flag.
+ So, i think we got the flag. ```flag is ac09afa2fcc825a31b9a46bab6223dd3```
+  
   Hope you liked it
+  
    ~Thanks
    
    [@spiritedwolf](https://github.com/spiritedwolf)
