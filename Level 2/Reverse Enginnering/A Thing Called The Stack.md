@@ -13,19 +13,21 @@ Which commands actually affect the stack?
 
 1. It's one of the simple challenge if you know assembly, even just the basics. So we got a file ```assembly.c```
 
-   ```assembly
-    foo:
-    pushl %ebp
-    mov %esp, %ebp
-    pushl %edi
-    pushl %esi
-    pushl %ebx
-    sub $0xf8, %esp
-    movl $0x1, (%esp)
-    movl $0x2, 0x4(%esp)
-    movl $0x3, 0x8(%esp)
-    movl $0x4, 0xc(%esp)
-  ```So, here we can see ```ebp,esp,edi,esi,ebx,esp``` are written. Which reaveals that it's 32Bit Assembly code. Lets 
+  ```assembly
+   foo:
+   pushl %ebp
+   mov %esp, %ebp
+   pushl %edi
+   pushl %esi
+   pushl %ebx
+   sub $0xf8, %esp
+   movl $0x1, (%esp)
+   movl $0x2, 0x4(%esp)
+   movl $0x3, 0x8(%esp)
+   movl $0x4, 0xc(%esp)
+ ```
+  
+  So, here we can see ```ebp,esp,edi,esi,ebx,esp``` are written. Which reaveals that it's 32Bit Assembly code. Lets 
   
  Here ```push %ebp pushl %edi pushl %esi pushl %ebx``` means just pushing whatever is in register EBP onto the stack
  ```mov %esp, %ebp``` takes the current stack pointer and uses it as the frame for the called function.
