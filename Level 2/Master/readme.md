@@ -104,8 +104,10 @@ So now lets to this master challenge of Level two. This challenge will open your
    inflating: nottheflag6.png         
    inflating: nottheflag7.png 
    ```
-   []()
+   
    Just open the ```flag.png``` and you got the flag.
+   
+   ![](https://github.com/iammrdollar/picoctf-2017-write-up/blob/master/Level%202/Master/flag.png?raw=true)
 
    Thanks :) 
    
