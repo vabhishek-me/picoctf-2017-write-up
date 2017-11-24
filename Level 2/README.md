@@ -26,6 +26,8 @@ ___
 
  - [Shellz](./BINARY%20EXPLOITATION/shellz.md)
  - [Shells](./BINARY%20EXPLOITATION/shells.md)
+ - [Ive Got A Secret](./I_have_got_a_secret.md)
+ - [Flagsay 1](./flagsay-1.md)
 
 ### MISC
 
