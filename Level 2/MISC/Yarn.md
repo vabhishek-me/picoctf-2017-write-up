@@ -15,4 +15,10 @@ ___
 I did not actually solved it the way it was supposed to. Whenever I'm given a file, I always check the contents of that file using cat command, I did the same with this file. 
 While going throught all the mess that there was, I saw this string which sort of seemed like a flag, "Submit_me_for_I_am_the_flag". And guess what, I hit the bull's eye :-p 
 
+To do it using ```strings```, change the minimum length of string recognition to 1 or 2.
+```bash
+$ strings -n 2 yarn
+```
+
+
 Adios :) @cyb3rw0rm

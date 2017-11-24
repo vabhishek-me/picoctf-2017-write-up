@@ -1,3 +1,3 @@
-# Questions
+# CRYPTOGRAPHY
 
- - SoRandom
+ - [SoRandom](./SoRandom.md)

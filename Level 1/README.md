@@ -43,3 +43,13 @@ ___
   - [WorldChat](./MISC/WorldChat.md)
 
 ### [Master Challenge](./MASTER_CHALLENGE/LazyDev.md)
+
+
+___
+___
+
+Collaborators:
+ 
+ - Abhishek Vishwakarma (@iammrdollar) - [Twitter](https://twitter.com/iammrdollar) - [Github](https://github.com/iammrdollar) - [LinkedIn](https://www.linkedin.com/in/iammrdollar)
+ - Aditya Gaur (@iamaditya-gaur)
+ - Spirited Wolf (@spiritedwolf)
