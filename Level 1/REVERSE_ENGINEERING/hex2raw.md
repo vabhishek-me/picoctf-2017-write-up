@@ -38,15 +38,14 @@ It was just a simple challenge. We just need inpute the decoded hex value.
         ```
     Well i think now we got the flag
     
-    ```
-    Give me this in raw form (0x41 -> 'A'):
-    88a5e3d5caa34e85e5f36cd55d776568
-    
-    You gave me:
-    88a5e3d5caa34e85e5f36cd55d776568
-    Yay! That's what I wanted! Here be the flag:
-    2bdd0a8259fcada3c12d732c7f3ca98a
-    ```
+  ```
+  Give me this in raw form (0x41 -> 'A'):
+  88a5e3d5caa34e85e5f36cd55d776568
+  You gave me:
+  88a5e3d5caa34e85e5f36cd55d776568
+  Yay! That's what I wanted! Here be the flag:
+  2bdd0a8259fcada3c12d732c7f3ca98a
+  ```
    And we got the flag.
 
    Thanks :) 
