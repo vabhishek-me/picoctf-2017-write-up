@@ -1,4 +1,4 @@
-# Shells
+# LeakedHashes
 ---
 ### Question
 Someone got hacked! Check out some service's password hashes that were leaked at hashdump.txt! Do you think they chose strong passwords? We should check... The service is running at shell2017.picoctf.com:4145!
