@@ -11,6 +11,7 @@ ___
 ### CRYPTOGRAPHY
 
  - [SoRandom](./CRYPTOGRAPHY/SoRandom.md)
+ - [Leaked Hashes](./CRYPTOGRAPHY/LeakedHashes.md)
 
 
 ### REVERSE ENGINEERING
@@ -26,8 +27,8 @@ ___
 
  - [Shellz](./BINARY%20EXPLOITATION/shellz.md)
  - [Shells](./BINARY%20EXPLOITATION/shells.md)
- - [Ive Got A Secret](./I_have_got_a_secret.md)
- - [Flagsay 1](./flagsay-1.md)
+ - [Ive Got A Secret](./BINARY%20EXPLOITATION/I_have_got_a_secret.md)
+ - [Flagsay 1](./BINARY%20EXPLOITATION/flagsay-1.md)
 
 ### MISC
 
