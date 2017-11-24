@@ -27,7 +27,7 @@ Which commands actually affect the stack?
     movl $0x4, 0xc(%esp)
   ```So, here we can see ```ebp,esp,edi,esi,ebx,esp``` are written. Which reaveals that it's 32Bit Assembly code. Lets 
   
- Here ```push %ebp pushl %edi pushl %esi pushl %ebx``` means just pushing whatever is in register EBP,EDI,ESI,EBX onto the stack
+ Here ```push %ebp pushl %edi pushl %esi pushl %ebx``` means just pushing whatever is in register EBP onto the stack
  ```mov %esp, %ebp``` takes the current stack pointer and uses it as the frame for the called function.
  
  So, it's pusshing 4 times and we know that each value is consist of 4 bytes. so means ```4*4=16```
