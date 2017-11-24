@@ -1,4 +1,4 @@
-# Questions
+# CRYPTOGRAPHY
 
  - [keyz](./keyz.md)
  - [substitute](./substitute.md)
