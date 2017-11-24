@@ -4,6 +4,9 @@ ___
 
 ### FORENSICS
 
+- [Meta Find Me](./Forensics/Meta%20Find%20Me.md)
+- [Just Keyp Trying](./Forensics/Just%20Keyp%20Trying.md)
+
 
 ### CRYPTOGRAPHY
 
