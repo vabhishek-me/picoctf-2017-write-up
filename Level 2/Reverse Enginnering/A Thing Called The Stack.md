@@ -41,8 +41,10 @@ Which commands actually affect the stack?
 3. So 264 is ```0x108``` so we got the flag.
  
  So, i think we got the flag.
+ 
   Hope you liked it
-   ~Thanks
+ 
+ ~Thanks
    
    [@spiritedwolf](https://github.com/spiritedwolf)
 
