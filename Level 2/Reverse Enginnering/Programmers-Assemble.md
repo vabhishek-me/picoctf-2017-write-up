@@ -118,7 +118,7 @@ This challenge was also based on assebly as the name it self says. You must have
    
    For it you can say ```%eax = %ebx/%ecx```. 
    
-   So, ```46992/8 = 5874``` . We got our ```%eax``` which is equals to ```5874``` now convert this [decimal in hex\(http://www.rapidtables.com/convert/number/decimal-to-hex.htm), 
+   So, ```46992/8 = 5874``` . We got our ```%eax``` which is equals to ```5874``` now convert this [decimal in hex](http://www.rapidtables.com/convert/number/decimal-to-hex.htm), 
    
    So we got ```$eax = 0x16F2```
 
