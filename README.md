@@ -88,7 +88,7 @@ ___
  - [Yarn](./Level%202/MISC/Yarn.md)
  - [Mystery Box](./Level%202/MISC/Mystery_Box.md)
  
-#### [Master Challenge](.Level%202/Master/readme.md)
+#### [Master Challenge](./Level%202/Master/readme.md)
 
 
 ___
@@ -97,21 +97,24 @@ ___
 
 ___
 
-#### FORENSICS
+### FORENSICS
+
  - [Connect The Wigle](./Level%203/FORENSICS/Connect_the_wingle.md)
-#### CRYPTOGRAPHY
 
-#### REVERSE ENGINEERING
+### CRYPTOGRAPHY
 
-#### WEB EXPLOITATION
+### REVERSE ENGINEERING
+
+ - [JSut Duck It Up](./Level%203/REVERSE-ENGINEERING/JSut_Duck_It_Up.md)
+ 
+### WEB EXPLOITATION
 
  - [Biscuit](./Level%203/WEB-EXPLOITATION/Biscuit.md)
  - [A Happy Union](./Level%203/WEB-EXPLOITATION/A-Happy-Union.md)
 
-#### BINARY EXPLOITATION
- 
+### BINARY EXPLOITATION
 
-#### [Master Challenge](.Level%202/Master/readme.md)
+#### [Master Challenge]
 ___
 
 Collaborators:
