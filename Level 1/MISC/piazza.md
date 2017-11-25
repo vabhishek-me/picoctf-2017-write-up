@@ -17,6 +17,10 @@ From my side this is the first challenge, which i don't need to describe. Just g
 
 So, i think we got the flag 
 
+```
+flag{ask_and_hop3fully_we_can_help}
+```
+
    Hope you liked it :)
    
    ~Thanks
