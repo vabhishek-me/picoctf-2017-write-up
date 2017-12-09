@@ -11,7 +11,7 @@ It may be useful to be able to run the code, with test values.
 ---
 # Solution
 
-This challenge was also based on assebly as the name it self says. You must have the basic knowledge of assembly. In this challenge x86 ASM is their. In hint section you also got the x86 ASM wikipedia link. Trust me it can help you a lot. Just read about stack instructions and you will be fine.
+This challenge was also based on assembly as the name it self says. You must have the basic knowledge of assembly. In this challenge x86 ASM is their. In hint section you also got the x86 ASM wikipedia link. Trust me it can help you a lot. Just read about stack instructions and you will be fine.
 
 1. In this challenge we got one file with name: 
     ```
